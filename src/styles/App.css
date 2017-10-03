@@ -1,0 +1,22 @@
+.App-header {
+  background-color: #222;
+  height: 75px;
+  padding: 20px;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.contentDiv {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.test {
+  width: 700px;
+}
